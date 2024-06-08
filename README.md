@@ -4,7 +4,7 @@
 This project demonstrates how to train a neural network model to classify images of clothing, such as shoes and shirts, using TensorFlow and Keras. It uses the Fashion MNIST dataset, a popular dataset for benchmarking machine learning algorithms.
 
 ## Project Structure
-- `classification.ipynb`: The Jupyter Notebook containing the complete code and explanations.
+- `keras_mode_image.ipynb`: The Jupyter Notebook containing the complete code and explanations.
 - `README.md`: This file providing an overview and instructions.
 
 ## Setup Instructions
